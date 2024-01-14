@@ -1,0 +1,22 @@
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\x86\Debug\Öğrenci Not Takip Sistemi.exe.config
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\x86\Debug\Öğrenci Not Takip Sistemi.exe
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\x86\Debug\Öğrenci Not Takip Sistemi.pdb
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\x86\Debug\Öğrenci Not Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\x86\Debug\Öğrenci Not Takip Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\x86\Debug\Öğrenci_Not_Takip_Sistemi.Form1.resources
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\x86\Debug\Öğrenci_Not_Takip_Sistemi.OgretmenBilgileriFormu.resources
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\x86\Debug\Öğrenci_Not_Takip_Sistemi.Properties.Resources.resources
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\x86\Debug\Öğrenci Not Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\x86\Debug\Öğrenci Not Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\x86\Debug\Öğrenci Not Takip Sistemi.exe
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\x86\Debug\Öğrenci Not Takip Sistemi.pdb
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\x86\Debug\AForge.Video.DirectShow.dll
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\x86\Debug\AForge.Video.dll
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\x86\Debug\AForge.dll
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\x86\Debug\AForge.Video.xml
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\x86\Debug\AForge.Video.DirectShow.xml
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\x86\Debug\AForge.xml
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\x86\Debug\Öğrenci Not Takip Sistemi.csproj.CopyComplete
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\x86\Debug\Öğrenci_Not_Takip_Sistemi.MesajGonderForm.resources
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\x86\Debug\Öğrenci_Not_Takip_Sistemi.MesajlarForm.resources
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\x86\Debug\Öğrenci_Not_Takip_Sistemi.chartOgrenciNotlari.resources

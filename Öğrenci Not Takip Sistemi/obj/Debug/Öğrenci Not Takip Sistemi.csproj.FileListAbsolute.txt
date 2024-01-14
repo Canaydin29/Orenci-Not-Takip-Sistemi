@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\Debug\Öğrenci Not Takip Sistemi.exe.config
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\Debug\Öğrenci Not Takip Sistemi.exe
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\Debug\Öğrenci Not Takip Sistemi.pdb
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci_Not_Takip_Sistemi.Form1.resources
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci_Not_Takip_Sistemi.Properties.Resources.resources
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.exe
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.pdb
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci_Not_Takip_Sistemi.OgrenciBilgileriFormu.resources
+C:\Users\PC\source\repos\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci_Not_Takip_Sistemi.OgretmenBilgileriFormu.resources
